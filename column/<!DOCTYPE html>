@@ -1,0 +1,34 @@
+<html>
+<head>
+
+ <title>3 column layout</title>
+ <meta charset="UTF-8">
+
+ <style>
+
+  .col{
+      border-style:solid;
+      border-color: red;
+      margin-top:50px;
+      padding:50px;
+      background-color:yellow;
+      color:blue;
+  }
+<body>
+  <header>
+        <h1>welcome to Echo Harmony</h1>
+    
+            <a href="homepage/index.html">Home</a>
+            <a href="homepage/live.html">Live</a>
+            <a href="homepage/music.html">Music</a>
+            <a href="homepage/merch.html">Merch</a>
+            <a href="homepage/events.html">Events</a>
+            <a href="homepage/news.html">News</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to Echo Harmony's Official Website!</h2>
+        <img src="https://images.penguinrandomhouse.com/cover/9781984830425">
+    </main>
+</body>
+</html>
